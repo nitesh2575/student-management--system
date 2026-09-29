@@ -1,0 +1,9 @@
+{
+    "name": "student-management",
+    "private": true,
+    "scripts": {
+        "dev": "npm --prefix client run dev",
+        "client": "npm --prefix client run dev",
+        "server": "npm --prefix server run dev"
+    }
+}
